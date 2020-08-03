@@ -27,7 +27,7 @@ body {
 }
 
 .lp-container {
-    background-image: url(/assets/romb.svg);
+    background-image: url(./assets/romb.svg);
     background-repeat: no-repeat;
     background-size: 60%;
     background-position: 150% 620px;
